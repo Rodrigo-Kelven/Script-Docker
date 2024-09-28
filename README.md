@@ -11,11 +11,14 @@ Este Script tem as simples funcionalidade de instalar e desistalar o docker de f
 
 ## Uso/Exemplos
 
-```javascript
+```bash
+Primeiro de poder de execução ao arquivo:
+chmod +x script.sh
+
 Para instalar o docker:
 ./script.sh instalar
 
 Para desistalar o docker:
 ./script.sh desistalar
-}
 ```
+    
