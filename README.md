@@ -12,7 +12,11 @@ Este Script tem as simples funcionalidade de instalar e desistalar o docker de f
 ## Uso/Exemplos
 
 ```bash
-Primeiro de poder de execução ao arquivo:
+Primeiro clona o repositório: https://github.com/Rodrigo-Kelven/Script-Docker
+
+Se você já clonou o repositório, procure o arquivo script.sh
+
+Agora da poder de execução ao arquivo:
 chmod +x script.sh
 
 Para instalar o docker:
