@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Fiz esse script para facilitar minha vida com oo install e uninstall do docker ;D
+# Fiz esse script para facilitar minha vida com o install e uninstall do docker ;D
 
 
 instalar_docker() {
