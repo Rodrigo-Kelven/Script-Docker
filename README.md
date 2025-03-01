@@ -1,9 +1,10 @@
 
-# Script Docker
+# Script Docker 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
 
 Este Script tem as simples funcionalidade de instalar e desistalar o [Docker](https://docs.docker.com/engine/install/) de forma "automática" sem precisar digitar todos os comandos nescesarios, simplificando e ganhando tempo. É algo simples, mas quero deixar publicado, por ter sido algo interessante a se fazer, e que talvez alguem faça uso deste Script.
-
-
 
 
 ## Etiquetas
