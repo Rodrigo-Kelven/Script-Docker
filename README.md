@@ -12,18 +12,19 @@ Este Script tem as simples funcionalidade de instalar e desistalar o [Docker](ht
 
 ## Uso/Exemplos
 
-```bash
-Primeiro clona o repositório: https://github.com/Rodrigo-Kelven/Script-Docker
+## Primeiro clona o repositório:
+    https://github.com/Rodrigo-Kelven/Script-Docker
 
-Se você já clonou o repositório, procure o arquivo script.sh
+### Se você já clonou o repositório, procure o arquivo script.sh
 
-Agora da poder de execução ao arquivo:
-chmod +x script.sh
+## Agora da poder de execução ao arquivo:
+    chmod +x script.sh
 
-Para instalar o docker:
-./script.sh instalar
+## Para instalar o docker:
+    sudo ./script.sh instalar
 
-Para desistalar o docker:
-./script.sh desistalar
-```
-    
+## Para desistalar o docker:
+    sudo ./script.sh desistalar
+
+## Para adiciona o seu usuário atual ao grupo chamado "docker", permitindo que você execute comandos Docker sem precisar usar sudo (ou seja, sem ser usuário root)
+    sudo usermod -aG docker $USER
